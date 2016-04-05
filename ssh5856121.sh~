@@ -1,0 +1,2 @@
+#!/bin/bash
+sshpass -p "superSOGO99@" ssh -o StrictHostKeyChecking=no 5856121@console.dc0.gpaas.net;
